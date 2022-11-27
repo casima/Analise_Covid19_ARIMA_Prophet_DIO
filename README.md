@@ -1,8 +1,6 @@
 # Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil
 
-<p align="center">
-  ![Python]<img width="460" height="300" src="https://img.icons8.com/dusk/2x/python.png">
-</p>
+![Python](https://img.icons8.com/dusk/2x/python.png)
 
 Projeto do curso _Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil_, promovido pela [Digital Innovation One](https://web.digitalinnovation.one/home).
 
